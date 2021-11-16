@@ -45,6 +45,8 @@ body {
 
 .text {
     padding: 1em;
+    font-family: 'Open-Sans', sans-serif;
+    opacity: 13;
 }
 
 .muted {
